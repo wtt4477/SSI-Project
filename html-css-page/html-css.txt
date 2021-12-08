@@ -1,0 +1,1 @@
+HTML/CSS UI to demostrate the timeline of calendar and payment process with shopping card, billing information and payment information. 
